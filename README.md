@@ -4,10 +4,6 @@
         <h1 align="center">Hi 👋, I'm Tiffany</h1>
     </div>
 
-<br>
-<br>
-<br>
-
 
 <p align="center"> 💻 WebDev. | 🚀 Aspiring DevOps Eng. | ❤️ Tech Enthusiast </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=iffois-prog&label=Profile%20views&color=0e75b6&style=flat" alt="iffois-prog" /> </p>
