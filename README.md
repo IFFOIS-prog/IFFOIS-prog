@@ -6,5 +6,3 @@
 
 
 
-<img  align="right" height="200" src="/rightb.png"  />
-<img align="left" height="200" src="/leftb.png"  />
