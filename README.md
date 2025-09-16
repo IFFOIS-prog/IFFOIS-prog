@@ -4,11 +4,20 @@
 <img align="left" height="200" src="/leftt.png"  />
 <h1 align="center">Hi 👋, I'm Tiffany</h1>
 </div> 
--->
+
 <div align="center">
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20Tiffany%20&fontSize=40&animation=twinkling&fontAlignY=35)
 </div>
+-->
+
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?text=Hello!%20I'm%20Tiffany%20&fontSize=40&animation=fadeIn&type=waving&customColorList=FFD700,FFA500&height=100&fontColor=FFFFFF)
+</div>
+
+
+
 
 <p align="center"><i>"A programmer driven by design and the art of building ideas into reality."</i></p>
 <br>
