@@ -87,6 +87,20 @@
     </a>
   </p>
 </details>
+<details marginTop="20px">
+  <summary>Competitions 🏃</summary>
+  <p align="left">
+    
+  </p>
+</details>
+<details marginTop="20px">
+  <summary>Projects 💻</summary>
+  <p align="left">
+    
+  </p>
+</details>
+
+<br>
 
 <!-- 
 <h3 align="left">Connect with me:</h3>
